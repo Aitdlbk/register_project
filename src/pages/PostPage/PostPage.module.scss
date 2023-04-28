@@ -1,0 +1,48 @@
+.postPage {
+  width: 100%;
+  background-color: #363755;
+  display: flex;
+  justify-content: center;
+
+  .container {
+    width: 100%;
+    max-width: 1192px;
+    background-color: #fff;
+    border-radius: 30px;
+    margin: 40px 0;
+    padding-bottom: 100px;
+
+    .content {
+      padding: 0 96px;
+      margin-top: 66px;
+
+      .title {
+        font-weight: 700;
+        font-size: 32px;
+      }
+
+      .inner_content {
+        display: flex;
+        padding-top: 49px;
+
+
+        .image {
+          max-width: 256px;
+          aspect-ratio: 1;
+          width: 100%;
+          border-radius: 20px;
+        }
+
+        .text {
+          background-color: gainsboro;
+          border-radius: 30px;
+          text-align: center;
+          padding: 20px;
+          margin-left: 23px;
+        }
+      }
+
+
+    }
+  }
+}

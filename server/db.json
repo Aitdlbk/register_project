@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "title": "asdasd",
+      "image": "asd",
+      "text": "asdads",
+      "id": 1
+    },
+    {
+      "title": "asdasd",
+      "image": "asd",
+      "text": "asdads",
+      "id": 2
+    }
+  ],
+  "users": []
+}
